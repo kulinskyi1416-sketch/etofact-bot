@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 TELEGRAM_TOKEN = "8835537614:AAEYS-x5arN0kAcvJuvCuqqxGrD2Qn2_qBQ"
 CHANNEL_ID     = "@EtoFact_channel"
-YOUTUBE_CHANNEL_ID = "YOUTUBE_CHANNEL_ID ="UCF86jKHCogORfF94qAQ6pKw"
+YOUTUBE_CHANNEL_ID ="UCF86jKHCogORfF94qAQ6pKw"
 POSTED_FILE = "posted_ids.json"
 CHECK_INTERVAL = 3600  # проверять каждый час
 
