@@ -9,7 +9,7 @@ from telegram.error import TelegramError
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-TELEGRAM_TOKEN = "вставьте_токен_сюда"
+TELEGRAM_TOKEN = "8835537614:AAEYS-x5arN0kAcvJuvCuqqxGrD2Qn2_qBQ"
 CHANNEL_ID     = "@EtoFact_channel"
 YOUTUBE_CHANNEL_ID = "UCHnfMRaKaBRcAXZn1PkGxWg"
 POSTED_FILE = "posted_ids.json"
